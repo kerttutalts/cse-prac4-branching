@@ -1,0 +1,19 @@
+1. What branches exist in this project?
+  answers
+  master
+  remotes/origin/HEAD
+  remotes/origin/bower
+  remotes/origin/index
+  remotes/origin/landing
+  remotes/origin/landing-ru
+  remotes/origin/master
+  remotes/origin/package
+
+2. What branch has been merged into master?
+ remotes/origin/index
+3. How many commits (in total) does the repository have?
+ 16
+4. What commits belong to branch package that don't belong to the branch master?
+cab8d80 Removed lock
+8bfb714 Added locked package
+daa9e63 Added package
